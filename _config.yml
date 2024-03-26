@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "Learnapy"
+description: "Happy Learning!"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
-author: 
+author: Learnapy Team
 
 #Target date in UTC / GMT
 countdown:
