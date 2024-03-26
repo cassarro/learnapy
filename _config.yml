@@ -18,11 +18,11 @@ countdown:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Learnapy Team
+  email: 
   twitter:
-  google-plus:
-  instagramm:
+  linkedin: https://www.linkedin.com/company/learnapy
+  instagram:
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
     url:
